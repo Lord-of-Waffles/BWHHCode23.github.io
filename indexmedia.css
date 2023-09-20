@@ -17,6 +17,6 @@ img {
 }
 
 body {
-    background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg);
-    opacity: 80%;
+    background-image: url(https://media0.giphy.com/media/sJvz8Qnfly3BOuotGx/giphy.gif?cid=ecf05e47jf2io28fpflmqzzyw0yv9w2te18tumrezl8nou9g&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    background-size: cover;
 }
