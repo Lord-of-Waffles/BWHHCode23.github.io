@@ -9,6 +9,14 @@
         background-color:rgba(20, 17, 42, 0.943);
         
     }
+    
+    a:link {
+        color: aqua;
+    } 
+
+    a:visited {
+        color: darkcyan;
+    }
 
     p {
         font-family: 'Times New Roman', Times, serif;
