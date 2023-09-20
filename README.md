@@ -2,6 +2,6 @@
 amazing stuff, be amazed
 
 
-This is my repository for learning how to code in HTML and JavaScript :)
+This is where i dump ALL of my written js and html code that I've done for school! Why? IDK!
 
 
