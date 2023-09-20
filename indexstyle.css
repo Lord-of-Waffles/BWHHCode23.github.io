@@ -6,38 +6,38 @@ body {
 
 div {
     text-align: center;
-    background-color:rgba(95, 102, 109, 0.929);
+    background-color:rgba(89, 72, 202, 0.943));
     back
     
 }
 
 p {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    color: azure;
+    font-size: 15px;
+    color:antiquewhite;
     
 }
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    color: azure;
+    color:antiquewhite;
 
 }
 
 h2 {
     font-family: 'Times New Roman', Times, serif;
-    color: azure;
+    color:antiquewhite;
 
 }
 
 h3 {
     font-family: 'Times New Roman', Times, serif;
-    color: azure;
+    color:antiquewhite;
 
 }
 
 h4 {
     font-family: 'Times New Roman', Times, serif;
-    color: azure;
+    color:antiquewhite;
 
 }
