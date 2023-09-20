@@ -1,42 +1,44 @@
 
 
-body {
-    background-color:rgba(20, 17, 42, 0.943);
-}
+    body {
+        background-color:rgba(20, 17, 42, 0.943);
+    }
 
-div {
-    text-align: center;
-    background-color:rgba(20, 17, 42, 0.943);
-    
-}
+    div {
+        text-align: center;
+        background-color:rgba(20, 17, 42, 0.943);
+        
+    }
 
-p {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
-    color:antiquewhite;
-    
-}
+    p {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        color:antiquewhite;
+        border: 1px solid;
+        background-color: antiquewhite;
+        
+    }
 
-h1 {
-    font-family: 'Times New Roman', Times, serif;
-    color:antiquewhite;
+    h1 {
+        font-family: 'Times New Roman', Times, serif;
+        color:antiquewhite;
 
-}
+    }
 
-h2 {
-    font-family: 'Times New Roman', Times, serif;
-    color:antiquewhite;
+    h2 {
+        font-family: 'Times New Roman', Times, serif;
+        color:antiquewhite;
 
-}
+    }
 
-h3 {
-    font-family: 'Times New Roman', Times, serif;
-    color:antiquewhite;
+    h3 {
+        font-family: 'Times New Roman', Times, serif;
+        color:antiquewhite;
 
-}
+    }
 
-h4 {
-    font-family: 'Times New Roman', Times, serif;
-    color:antiquewhite;
+    h4 {
+        font-family: 'Times New Roman', Times, serif;
+        color:antiquewhite;
 
-}
+    }
