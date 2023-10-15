@@ -1,0 +1,60 @@
+article, aside, details, figcaption, figure, footer, header, menu, nav, section
+	{
+	display: block;
+	}
+
+
+body
+	{
+	background-color: whitesmoke;
+	font-family: verdana, arial, sans-serif;
+	}
+
+#container
+	{
+	max-width: 62.5em; /* 62.5em = 1000px */
+	margin-left: auto;
+	margin-right: auto; 
+	}
+			
+img	
+	{
+	max-width: 50%;
+	min-width: 300px;
+	float: left;
+	margin-right: .5em;
+	height: auto;
+	}
+
+
+
+@media screen and (max-width: 60em) {
+	
+body
+	{
+	background-color: palevioletred;
+	}
+	
+}
+
+
+@media only screen and (max-width : 50em) {
+	
+body
+	{
+	background-color: grey;
+	}
+		
+}
+
+
+@media only screen and (max-width : 25em) {
+	
+body
+	{
+	background-color: blue;
+	}
+
+}
+
+
