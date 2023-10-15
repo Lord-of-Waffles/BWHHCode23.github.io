@@ -1,0 +1,56 @@
+body
+	{
+	background-color: palegoldenrod;
+	}
+
+.container 
+	{
+	width: 90%; 
+	margin-left: auto;
+	margin-right: auto;
+	}
+			
+img	
+	{
+	max-width: 100%;
+	height: auto;
+
+	}
+
+figure
+	{
+	width: 45%;
+	min-width: 200px;
+	float: left;
+	}
+
+@media screen and (max-width: 1000px) {
+	
+body
+	{
+	background-color: purple;
+	}
+	
+}
+
+
+@media only screen and (max-width : 480px) {
+	
+body
+	{
+	background-color: turquoise;
+	}
+		
+}
+
+
+@media only screen and (max-width : 320px) {
+	
+body
+	{
+	background-color: pink;
+	}
+
+}
+
+
